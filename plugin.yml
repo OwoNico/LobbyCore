@@ -1,0 +1,5 @@
+name: LobbyCore
+main: Core\Base
+author: OwoNico
+version: 1.0.0
+api: [4.0.0]
